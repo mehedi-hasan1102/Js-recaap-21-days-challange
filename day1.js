@@ -29,3 +29,6 @@ console.log(dress)
 const student = {name: 'hasan' , marks: 50 }
 student.marks = 60 ;
 console.log(student)
+
+
+
