@@ -74,7 +74,7 @@ By completing this 21-day challenge, I aim to:
 ## 🔥 Challenge Rule
 
 Consistency > Motivation  
-Code every day. No excuses.
+Code every day. No excuses...
 
 ---
 
